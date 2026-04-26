@@ -1,0 +1,6 @@
+{
+  "name": "RMC Trip Log",
+  "description": "A professional trip logging and billing application for Ready Mix Concrete (RMC) vendors, featuring automated PO assignment, trip summaries, and PDF/Excel export capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
